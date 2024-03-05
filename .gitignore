@@ -4,3 +4,5 @@ data
 log
 *.pth
 results
+__pycache__
+model/__pycache__

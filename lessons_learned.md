@@ -9,7 +9,7 @@ I was tryng to figure out why predictions (and loss) went to NaN right after the
 
 ## Learning Rate
 
-Nothing fancy here, just *TRIPLE* check that the learning rate is a actually the intended value!! I've just wasted three days because i thought i'd set it to $10e-3$ while instead it was $10e3$ and made the weights unstable.
+Nothing fancy here, just *TRIPLE* check that the learning rate is a actually the intended value!! I've just wasted three days because i thought i'd set it to $1e-3$ while instead it was $1e3$ and made the weights unstable.
 
 
 ## TO DO
